@@ -1,8 +1,5 @@
 # Instalación y ejemplo inicial sin controlador
 
-# Instalación de Node.js, NVM y NPM
-
-# Índice
 
 # Índice
 
@@ -32,7 +29,7 @@
    6. [Próximos pasos](#6-próximos-pasos)
 
 
-
+# Instalación de Node.js, NVM y NPM
 ## 1. ¿Qué son?
 
 | Herramienta | Descripción |
